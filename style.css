@@ -1,12 +1,52 @@
-p {
-    font-family:sans-serif;
+h2 {
+    font-family:outfit;
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
     
 }
 
+h3 {
+    font-family:outfit;
+    color: hsl(212,45%,89%);
+    font-weight: 400;
+    
+}
+
+
+
 div {
+    width: 375px;
     text-align: center;
+    color: white;
+    padding: 10px;
 }
 
 img {
-    border-radius: 20px;
+    border-radius: 0.5em;
+    width: 375px;
+    
+}
+
+.card {
+
+    font-size: 15px;
+    background-color: white;
+    border-radius: 1em;
+    width: 375px;
+    padding: 1em;
+}
+
+.card-top-center {
+    width: 96%;
+    height: auto;
+    border: 0em;
+   
+  }
+
+.card-body {
+
+    width: 96%;
+    padding-top: 1em;
+    
+
 }
